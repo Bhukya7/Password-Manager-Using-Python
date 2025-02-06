@@ -82,7 +82,3 @@ This is a simple console-based password manager written in Python. It uses the `
 *   **Simple Encryption:** While Fernet encryption is generally considered strong, this implementation is relatively basic. For very sensitive applications, consider using more advanced security techniques.
 *   **No Input Sanitization:** This code does not sanitize user inputs, making it vulnerable to injection attacks (though the impact is limited in this specific application).
 *   **Use at Your Own Risk:** This password manager is a learning tool and should not be used to store highly sensitive passwords without carefully considering the security implications.
-
-## Disclaimer
-
-This password manager is provided as-is for educational purposes only. The author is not responsible for any security breaches or data loss resulting from the use of this software. Use it at your own risk. Always prioritize strong security practices when handling sensitive information.
